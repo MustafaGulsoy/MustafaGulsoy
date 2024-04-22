@@ -14,7 +14,7 @@
 
 <h2></h2>
 
-![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaGulsoy&hide=contribs,prs)
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaGulsoy&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaGulsoy&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
