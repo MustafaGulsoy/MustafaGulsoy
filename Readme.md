@@ -1,6 +1,6 @@
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px> About Me</h2>
 
-🎓  M.Sc. in Computer Engineering @ Kocaeli University.
+🎓   in Computer Engineering @ Çukrova University.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -15,23 +15,15 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-**Check out my ROS package:**
 
-<div>
-  <p>
-    <a href="https://github.com/tayfunkscu/gallipoli_auv">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunkscu&repo=gallipoli_auv" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
 
 <h2></h2>
 
-![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayfunkscu&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunkscu&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaGulsoy&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaGulsoy&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/tayfunkuscu/
+[linkedin]:
